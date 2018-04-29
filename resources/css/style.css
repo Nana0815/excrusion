@@ -1,0 +1,36 @@
+h1,
+h2 {
+  font-family: Verdana, sans-serif;
+  color: white;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 42px;
+}
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+.download {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.excursion {
+  font-family: verdana;
+}
+
+#copyright {
+  text-align: right;
+}
